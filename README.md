@@ -1,20 +1,29 @@
 ## Fruit-E
 
-Web ecommerce platform for fruit.
-Live site available soon.
+Web ecommerce platform for fruit. Available products pulled from MongoDB. Cart state management done through React's Context API. Payment processed through Stripe's API and order stored in MongoDB. Built over the course of one day.
 
 ## Built With
  - [React](https://reactjs.org/)
  - [Stripe](https://stripe.com/docs/api)
  - [Node](https://nodejs.org/en/)
- - [Express](https://expressjs.com/))
+ - [Express](https://expressjs.com/)
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
  - [Semantic UI](https://react.semantic-ui.com/)
 
 ## Contributors 
  - [Nick Nguyen](https://github.com/nguyennick197)
 
- ## Contributing
+## Contributing
 Submit pull requests
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
+
+<img src="public/FruitEDashboard.png" alt="Dashboard" width="400"/>
+<br/>
+<img src="public/FruitECart.png" alt="Cart" width="400"/>
+<br/>
+<img src="public/FruitECheckout.png" alt="Checkout" width="400"/>
+<br/>
+<img src="public/FruitEOrder.png" alt="Cart" width="400"/>
+
+
