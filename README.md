@@ -18,12 +18,12 @@ Submit pull requests
 
 ## Screenshots
 
-<img src="public/FruitEDashboard.png" alt="Dashboard" width="400"/>
+<img src="public/FruitEDashboard.png" alt="Dashboard" width="800"/>
 <br/>
-<img src="public/FruitECart.png" alt="Cart" width="400"/>
+<img src="public/FruitECart.png" alt="Cart" width="800"/>
 <br/>
-<img src="public/FruitECheckout.png" alt="Checkout" width="400"/>
+<img src="public/FruitECheckout.png" alt="Checkout" width="800"/>
 <br/>
-<img src="public/FruitEOrder.png" alt="Cart" width="400"/>
+<img src="public/FruitEOrder.png" alt="Cart" width="800"/>
 
 
